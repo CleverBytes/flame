@@ -26,7 +26,7 @@ flutter:
     - assets/audio/explosion.mp3
     - assets/audio/music.mp3
 ```
-
+        mavenCentral()
 Then you have the following methods at your disposal:
 
 ```dart
